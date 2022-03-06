@@ -1,5 +1,5 @@
 👋 Hi, I’m @alluvm, a infotech student from Aalto Univ.
-Right now I learning about open source and fullstack development along with a dose of C and arduino.
+Right now Im spending my time learning about open source and fullstack development along with a dose of C and arduino.
 
 You can contact me at
 aleksi.jalmanen@gmail.com
