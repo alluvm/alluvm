@@ -1,4 +1,5 @@
-👋 Hi, I’m @alluvm, a infotech student from Aalto Univ.
+👋 Hi, I’m @alluvm, an infotech student at Aalto University. 
+
 Right now Im spending my time learning about open source and fullstack development along with a dose of C and arduino.
 
 You can contact me at
